@@ -1,0 +1,68 @@
+.card-container {
+  margin-top: 110px !important;
+  height: fit-content !important;
+  width: 600px !important;
+}
+
+.Touch {
+  background-color: #dbdada;
+}
+
+.input-container{
+  z-index: 1000;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(78, 76, 76, 0.822);
+  overflow: hidden;
+}
+
+.Cancel{
+  cursor: pointer;
+}
+
+.Add{
+  cursor: pointer;
+}
+
+
+.dot-1 {
+  background-color: #78c4ed;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+}
+
+
+.dot-2 {
+  background-color: rgb(250, 172, 216);
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+  border-radius: 50%;
+  display: inline-block;
+  border: none;
+}
+
+
+.dot-3 {
+  background-color: #86edc9;
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+  border-radius: 50%;
+  display: inline-block;
+  border: none;
+}
+
+.dot-4 {
+  background-color: #bbb;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+}
